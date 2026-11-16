@@ -1,0 +1,9 @@
+# Secrets - never commit
+service.json
+auth.json
+*.key
+.env*
+
+# Local backups made by preset edits
+*.bak
+*.bak.*
