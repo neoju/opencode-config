@@ -4,6 +4,7 @@
     "name": "tokyonight"
   },
   "plugins": [
-    "oh-my-opencode-slim"
+    "oh-my-opencode-slim",
+    "superpowers@git+https://github.com/obra/superpowers.git"
   ]
 }
